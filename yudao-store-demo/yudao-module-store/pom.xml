@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cn.iocoder.boot</groupId>
+        <artifactId>yudao</artifactId>
+        <version>${revision}</version>
+    </parent>
+    <artifactId>yudao-module-store</artifactId>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        <!-- 芋道 Web -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-web</artifactId>
+        </dependency>
+        <!-- 芋道安全 -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-security</artifactId>
+        </dependency>
+        <!-- 芋道 MyBatis -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-mybatis</artifactId>
+        </dependency>
+        <!-- 芋道 Excel -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-excel</artifactId>
+        </dependency>
+        <!-- 芋道多租户 -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-biz-tenant</artifactId>
+        </dependency>
+        <!-- 芋道定时任务 -->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-spring-boot-starter-job</artifactId>
+        </dependency>
+        <!--        &lt;!&ndash; 系统模块 API（用到了用户、部门等） &ndash;&gt;-->
+        <!--        <dependency>-->
+        <!--            <groupId>cn.iocoder.boot</groupId>-->
+        <!--            <artifactId>yudao-module-system-api</artifactId>-->
+        <!--            <version>${revision}</version>-->
+        <!--        </dependency>-->
+        <!--        &lt;!&ndash; 基础设施 API（用到了文件、日志等） &ndash;&gt;-->
+        <!--        <dependency>-->
+        <!--            <groupId>cn.iocoder.boot</groupId>-->
+        <!--            <artifactId>yudao-module-infra-api</artifactId>-->
+        <!--            <version>${revision}</version>-->
+        <!--        </dependency>-->
+    </dependencies>
+</project>
