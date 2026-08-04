@@ -6,90 +6,55 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for yudao-framework" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="D:/Maven/repository/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+          <entry name="D:/Maven/repository/org/mapstruct/mapstruct-processor/1.6.3/mapstruct-processor-1.6.3.jar" />
+          <entry name="D:/Maven/repository/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+          <entry name="D:/Maven/repository/org/mapstruct/mapstruct-processor/1.6.3/mapstruct-processor-1.6.3.jar" />
+        </processorPath>
         <module name="yudao-spring-boot-starter-job" />
-        <module name="yudao-server" />
-        <module name="yudao-spring-boot-starter-redis" />
-        <module name="yudao-spring-boot-starter-mybatis" />
-        <module name="yudao-module-product" />
-        <module name="yudao-spring-boot-starter-protection" />
-        <module name="yudao-module-ai" />
-        <module name="yudao-spring-boot-starter-biz-tenant" />
-        <module name="yudao-module-promotion" />
-        <module name="yudao-spring-boot-starter-websocket" />
-        <module name="yudao-module-im" />
-        <module name="yudao-module-mp" />
-        <module name="yudao-spring-boot-starter-mq" />
-        <module name="yudao-common" />
-        <module name="yudao-spring-boot-starter-excel" />
-        <module name="yudao-module-trade" />
-        <module name="yudao-module-member" />
-        <module name="yudao-module-infra" />
-        <module name="yudao-module-store" />
         <module name="yudao-spring-boot-starter-test" />
         <module name="yudao-spring-boot-starter-biz-data-permission" />
         <module name="yudao-spring-boot-starter-security" />
-        <module name="yudao-module-iot-gateway" />
+        <module name="yudao-spring-boot-starter-redis" />
+        <module name="yudao-spring-boot-starter-mybatis" />
+        <module name="yudao-spring-boot-starter-protection" />
         <module name="yudao-spring-boot-starter-web" />
-        <module name="yudao-module-system" />
         <module name="yudao-spring-boot-starter-biz-ip" />
-        <module name="yudao-module-trade-api" />
+        <module name="yudao-spring-boot-starter-biz-tenant" />
         <module name="yudao-spring-boot-starter-monitor" />
-        <module name="yudao-module-pay" />
-        <module name="yudao-module-statistics" />
-        <module name="yudao-module-erp" />
-        <module name="yudao-module-iot-core" />
-        <module name="yudao-module-crm" />
-        <module name="yudao-module-bpm" />
-        <module name="yudao-module-iot-biz" />
-        <module name="yudao-module-report" />
-        <module name="yudao-module-mes" />
+        <module name="yudao-spring-boot-starter-websocket" />
+        <module name="yudao-spring-boot-starter-mq" />
+        <module name="yudao-common" />
+        <module name="yudao-spring-boot-starter-excel" />
+      </profile>
+      <profile name="Annotation profile for yudao-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="D:/Maven/repository/org/springframework/boot/spring-boot-configuration-processor/2.7.18/spring-boot-configuration-processor-2.7.18.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+          <entry name="D:/Maven/repository/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+          <entry name="D:/Maven/repository/org/mapstruct/mapstruct-processor/1.6.3/mapstruct-processor-1.6.3.jar" />
+        </processorPath>
+        <module name="yudao-server" />
         <module name="yudao-module-wms" />
+        <module name="yudao-module-store" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="yudao" target="${java.version}" />
-      <module name="yudao-common" target="${java.version}" />
-      <module name="yudao-dependencies" target="1.5" />
-      <module name="yudao-framework" target="${java.version}" />
-      <module name="yudao-module-ai" target="${java.version}" />
-      <module name="yudao-module-bpm" target="${java.version}" />
-      <module name="yudao-module-crm" target="${java.version}" />
-      <module name="yudao-module-erp" target="${java.version}" />
-      <module name="yudao-module-im" target="${java.version}" />
-      <module name="yudao-module-infra" target="${java.version}" />
-      <module name="yudao-module-iot" target="${java.version}" />
-      <module name="yudao-module-iot-biz" target="${java.version}" />
-      <module name="yudao-module-iot-core" target="${java.version}" />
-      <module name="yudao-module-iot-gateway" target="${java.version}" />
-      <module name="yudao-module-mall" target="${java.version}" />
-      <module name="yudao-module-member" target="${java.version}" />
-      <module name="yudao-module-mes" target="${java.version}" />
-      <module name="yudao-module-mp" target="${java.version}" />
-      <module name="yudao-module-pay" target="${java.version}" />
-      <module name="yudao-module-product" target="${java.version}" />
-      <module name="yudao-module-promotion" target="${java.version}" />
-      <module name="yudao-module-report" target="${java.version}" />
-      <module name="yudao-module-statistics" target="${java.version}" />
-      <module name="yudao-module-store" target="${java.version}" />
-      <module name="yudao-module-system" target="${java.version}" />
-      <module name="yudao-module-trade" target="${java.version}" />
-      <module name="yudao-module-trade-api" target="${java.version}" />
-      <module name="yudao-module-wms" target="${java.version}" />
-      <module name="yudao-server" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-biz-data-permission" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-biz-ip" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-biz-tenant" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-excel" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-job" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-monitor" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-mq" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-mybatis" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-protection" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-redis" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-security" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-test" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-web" target="${java.version}" />
-      <module name="yudao-spring-boot-starter-websocket" target="${java.version}" />
+    <bytecodeTargetLevel>
+      <module name="yudao-module-infra" target="1.5" />
+      <module name="yudao-module-system" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

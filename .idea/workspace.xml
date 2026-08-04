@@ -4,79 +4,128 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19597436-12b2-4257-be33-d26ba426c782" name="Changes" comment="" />
+    <list default="true" id="ced20700-4b31-49cf-90ca-51dbd6a81f26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/store/clean/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/store/store/StoreForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/store/store/StoreImportForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/store/store/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-store-demo/yudao-module-store/src/main/java/cn/iocoder/yudao/module/store/controller/admin/store/StoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-store-demo/yudao-module-store/src/main/java/cn/iocoder/yudao/module/store/controller/admin/store/StoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/cal/plan/team.ts.bak" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/cal/plan/team.ts.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/dv/checkplan/machinery.ts.bak" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/dv/checkplan/machinery.ts.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/dv/checkplan/subject.ts.bak" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/dv/checkplan/subject.ts.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/wm/itemconsume/line/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/api/mes/wm/itemconsume/line/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/plugins/tongji/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/plugins/tongji/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/utils/dict.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/utils/dict.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/im/home/components/group/GroupMember.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yudao-ui-admin-vue3/src/views/im/home/components/group/GroupMember.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/yudao-store-demo" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Maven\apache-maven-3.9.16" />
         <option name="localRepository" value="D:\Maven\repository" />
-        <option name="mavenHome" value="D:/Maven/apache-maven-3.9.16" />
-        <option name="useMavenConfig" value="true" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="D:\Maven\apache-maven-3.9.16\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="3H90AA73LgGbmczbwKCsxkk3jCa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3HK6Fs6hPDTWS3VwCy43cTbZcNc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="D:/android" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-    <property name="ts.external.directory.path" value="E:\code\project\yudao-demo\yudao-ui-admin-vue3\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.yudao [clean].executor": "Run",
+    "Maven.yudao-module-pay [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.YudaoServerApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/code/project/yudao-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "ts.external.directory.path": "E:\\code\\project\\yudao-demo\\yudao-ui-admin-vue3\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YudaoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="yudao-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.iocoder.yudao.server.YudaoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="RebelAgentSelection">
-    <selection>jr</selection>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\code\project\yudao-demo\yudao-ui-admin-vue3\src\views" />
-      <recent name="E:\code\project\yudao-demo\yudao-ui-admin-vue3\src\api" />
-      <recent name="E:\code\project\yudao-demo\yudao-store-demo" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19597436-12b2-4257-be33-d26ba426c782" name="Changes" comment="" />
-      <created>1785264835926</created>
+      <changelist id="ced20700-4b31-49cf-90ca-51dbd6a81f26" name="Changes" comment="" />
+      <created>1785604318712</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1785264835926</updated>
-      <workItem from="1785264838754" duration="1420000" />
-      <workItem from="1785266917968" duration="4757000" />
-      <workItem from="1785272408920" duration="670000" />
-      <workItem from="1785273099645" duration="114000" />
-      <workItem from="1785273316339" duration="191000" />
-      <workItem from="1785312663171" duration="36000" />
-      <workItem from="1785312706430" duration="11000" />
-      <workItem from="1785312803517" duration="58000" />
+      <updated>1785604318712</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:prettier" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:unocss" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vue" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:postcss" />
   </component>
 </project>

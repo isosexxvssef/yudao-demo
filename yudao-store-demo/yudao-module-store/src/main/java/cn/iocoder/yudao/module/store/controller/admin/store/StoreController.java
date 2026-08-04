@@ -77,6 +77,7 @@ public class StoreController {
     @Operation(summary = "获得门店")
     @Parameter(name = "id", description = "编号", required = true, example = "1024")
     @PreAuthorize("@ss.hasPermission('store:store:query')")
+
     public CommonResult<StoreRespVO> getStore(@RequestParam("id") Long id) {
         StoreDO store = storeService.getStore(id);
         return success(BeanUtils.toBean(store, StoreRespVO.class));

@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-common/yudao-common.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-common/yudao-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/yudao-demo.iml" filepath="$PROJECT_DIR$/.idea/yudao-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-dependencies/yudao-dependencies.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-dependencies/yudao-dependencies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-framework.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-ai/yudao-module-ai.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-ai/yudao-module-ai.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-bpm/yudao-module-bpm.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-bpm/yudao-module-bpm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-crm/yudao-module-crm.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-crm/yudao-module-crm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-erp/yudao-module-erp.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-erp/yudao-module-erp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-im/yudao-module-im.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-im/yudao-module-im.iml" />
       <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-infra/yudao-module-infra.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-infra/yudao-module-infra.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-biz/yudao-module-iot-biz.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-biz/yudao-module-iot-biz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-core/yudao-module-iot-core.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-core/yudao-module-iot-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-gateway/yudao-module-iot-gateway.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-iot/yudao-module-iot-gateway/yudao-module-iot-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-mall.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-mall.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-member/yudao-module-member.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-member/yudao-module-member.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mes/yudao-module-mes.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mes/yudao-module-mes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mp/yudao-module-mp.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mp/yudao-module-mp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-pay/yudao-module-pay.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-pay/yudao-module-pay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-product/yudao-module-product.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-product/yudao-module-product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-promotion/yudao-module-promotion.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-promotion/yudao-module-promotion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-report/yudao-module-report.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-report/yudao-module-report.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-statistics/yudao-module-statistics.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-statistics/yudao-module-statistics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-store/yudao-module-store.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-store/yudao-module-store.iml" />
       <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-system/yudao-module-system.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-system/yudao-module-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-trade/yudao-module-trade.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-trade/yudao-module-trade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-trade-api/yudao-module-trade-api.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-mall/yudao-module-trade-api/yudao-module-trade-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-module-wms/yudao-module-wms.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-module-wms/yudao-module-wms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-server/yudao-server.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-server/yudao-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-data-permission/yudao-spring-boot-starter-biz-data-permission.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-data-permission/yudao-spring-boot-starter-biz-data-permission.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-ip/yudao-spring-boot-starter-biz-ip.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-ip/yudao-spring-boot-starter-biz-ip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-tenant/yudao-spring-boot-starter-biz-tenant.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-biz-tenant/yudao-spring-boot-starter-biz-tenant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-excel/yudao-spring-boot-starter-excel.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-excel/yudao-spring-boot-starter-excel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-job/yudao-spring-boot-starter-job.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-job/yudao-spring-boot-starter-job.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-monitor/yudao-spring-boot-starter-monitor.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-monitor/yudao-spring-boot-starter-monitor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-mq/yudao-spring-boot-starter-mq.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-mq/yudao-spring-boot-starter-mq.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-mybatis/yudao-spring-boot-starter-mybatis.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-mybatis/yudao-spring-boot-starter-mybatis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-protection/yudao-spring-boot-starter-protection.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-protection/yudao-spring-boot-starter-protection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-redis/yudao-spring-boot-starter-redis.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-redis/yudao-spring-boot-starter-redis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-security/yudao-spring-boot-starter-security.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-security/yudao-spring-boot-starter-security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-test/yudao-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-test/yudao-spring-boot-starter-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-web/yudao-spring-boot-starter-web.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-web/yudao-spring-boot-starter-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-websocket/yudao-spring-boot-starter-websocket.iml" filepath="$PROJECT_DIR$/yudao-store-demo/yudao-framework/yudao-spring-boot-starter-websocket/yudao-spring-boot-starter-websocket.iml" />
     </modules>
   </component>
 </project>

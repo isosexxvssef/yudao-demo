@@ -283,7 +283,7 @@ public void cleanStoreData() { ... }
 
 详细的测试方案、测试用例、测试数据准备、测试结果登记模板，请参见独立文档：
 
-👉 **[TEST.md](TEST.md)**
+👉 **[TEST.md](yudao-store-demo/TEST.md)**
 
 
 
